@@ -32,38 +32,3 @@
     border-color:  BLACK
     
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*.container {
- 
-    background-color: aqua;
-    border: 10px solid black;
-    border-radius: 10px;
-    justify-content: center;
-    display: flex;
-    padding: 50px;
-    line-height: 38px;
-    margin-top: 32px;
-    padding: 30px 100px 100px 120px;
-    flex-direction: column;
-  
-}
-.form-group {
-   justify-content: center;
-   padding: 10px;
-   display: flex;
-   
-   
-}
